@@ -49,6 +49,7 @@ set ambiwidth=double
  NeoBundle 'Shougo/vimproc'
  NeoBundle 'Shougo/neocomplcache.git'
  NeoBundle 'Shougo/neosnippet.git'
+ NeoBundle 'Shougo/neosnippet-snippets'
  NeoBundle 'Shougo/unite.vim'
  NeoBundle 'Shougo/vimfiler'
  NeoBundle 'h1mesuke/unite-outline'
@@ -105,7 +106,7 @@ set listchars=tab:>-,extends:»,trail:▫,eol:¬
 " set cindent
 " set smartindent
 
-set tabstop=4
+set tabstop=2
 set softtabstop=0 " set 0 to set same value as tabstop
 set shiftwidth=4
 
